@@ -1,4 +1,4 @@
-require("neorg.modules.base")
+local neorg = require("neorg.modules.base")
 
 local module = neorg.modules.create("external.list_colors")
 
